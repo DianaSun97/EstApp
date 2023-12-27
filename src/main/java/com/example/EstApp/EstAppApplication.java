@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EstAppApplication {
 
 
-	test	public static void main(String[] args) {
+
+	public static void main(String[] args) {
 		SpringApplication.run(EstAppApplication.class, args);
 	}
 
